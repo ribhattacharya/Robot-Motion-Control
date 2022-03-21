@@ -8,6 +8,20 @@ Implemented trajectory generation and motion control on a KUKA youBot using copp
 4. **FeedbackControlOvershoot**: FeedbackControl script, but for the overshoot case (no feedforward component, only PI controller)
 
 ## Main body scripts
-1. **Final_Wrapper_Best**: Wrapper script for the best case control scenario
-3. **Final_Wrapper_Overshoot**: Wrapper scipt for the oversahoot case, where gain constants were suboptimal
-4. **Final_Wrapper_newtask**: Wrapper script for the best case scenario for a new case, with new cube pick/place positions
+1. **Final_Wrapper_Best**: Wrapper script for the best case control scenario 
+
+| Image                                                                                                                                            | Video                                                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="url"><img src="https://github.com/ribhattacharya/Robot-Motion-Control/blob/main/results/best_crop.jpeg" align="left" height="300" ></a> | <a href="url"><img src="https://github.com/ribhattacharya/Robot-Motion-Control/blob/main/results/best_crop.jpeg" align="left" height="300" ></a> |
+
+2. **Final_Wrapper_Overshoot**: Wrapper scipt for the oversahoot case, where gain constants were suboptimal
+
+| Image                                                                                                                                            | Video                                                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="url"><img src="https://github.com/ribhattacharya/Robot-Motion-Control/blob/main/results/overshoot_crop.jpeg" align="left" height="300" ></a> | <a href="url"><img src="https://github.com/ribhattacharya/Robot-Motion-Control/blob/main/results/best_crop.jpeg" align="left" height="300" ></a> |
+
+3. **Final_Wrapper_newtask**: Wrapper script for the best case scenario for a new case, with new cube pick/place positions
+
+| Image                                                                                                                                            | Video                                                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="url"><img src="https://github.com/ribhattacharya/Robot-Motion-Control/blob/main/results/newtask_crop.jpeg" align="left" height="300" ></a> | <a href="url"><img src="https://github.com/ribhattacharya/Robot-Motion-Control/blob/main/results/best_crop.jpeg" align="left" height="300" ></a> |
