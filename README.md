@@ -1,5 +1,5 @@
 # Robot-Motion-Control
-Implemented trajectory generation and motion control on a KUKA youBot using coppeliaSim simulation package. The task was to pick up a cube and place it at a desired location
+Implemented trajectory generation and motion control on a KUKA youBot 5 arm robot using coppeliaSim simulation package. The task was to pick up a cube and place it at a desired location
 
 ## Functions
 1. **TrajectoryGenerator**: Given a sequence of poses/locations in terms of 4x4 SE(3) matrices, return the trajectory between them
