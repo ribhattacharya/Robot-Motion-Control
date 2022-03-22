@@ -14,7 +14,7 @@ Implemented trajectory generation and motion control on a KUKA youBot using copp
 |---------------------------------|------------------------------|
 | ![best](results/best_crop.jpeg) | ![bestvid](results/best.gif) |
 
-2. **Final_Wrapper_Overshoot**: Wrapper scipt for the oversahoot case, where gain constants were suboptimal
+2. **Final_Wrapper_Overshoot**: Wrapper scipt for the overshoot case, where gain constants were suboptimal
 
 | <a href="url"><img src="https://github.com/ribhattacharya/Robot-Motion-Control/blob/main/results/overshoot_crop.jpeg" align="left" height="300" ></a> |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|
